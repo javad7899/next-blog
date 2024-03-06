@@ -1,4 +1,4 @@
-# My Blog
+# Next.js Blog
 
 This is a simple blog application built with Next.js, a React framework for server-rendered applications. The blog includes pages for displaying blog post details and a contact page.
 
@@ -42,4 +42,4 @@ npm install
 ```bash
 npm run dev
 ```
-## The application will be available at http://localhost:3000.
+### The application will be available at http://localhost:3000.
